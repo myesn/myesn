@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱.net core web developer
+👅Sleep on the floor one day, be the boss the next
 <!--
 **myesn/myesn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
