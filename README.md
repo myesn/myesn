@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-👅Sleep on the floor one day, be the boss the next
+<p align="center">
+  <i>A good code is like a story, not a puzzle.</i><br/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=myesn.myesn"/>
+</p>
 <!--
 **myesn/myesn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
