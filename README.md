@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <i>A good code is like a story, not a puzzle.</i><br/>
-<img src="https://visitor-badge.glitch.me/badge?page_id=myesn.myesn"/>
+  <i>A good code is like a story, not a puzzle.</i>
 </p>
 <!--
 **myesn/myesn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
