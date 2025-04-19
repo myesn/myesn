@@ -1,9 +1,4 @@
 <p align="center">
-  <!--<img src="https://github-profile-trophy.vercel.app/?username=myesn" />-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myesn&layout=compact" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=cs,java,js,nodejs,ts,html,css,spring,jquery,express,regex,vue,react,nextjs,redux,redis,mongodb,mysql,nginx,linux,docker,idea,visualstudio,vscode,git,github,gitlab,md" />  
-  <br>
   <i>A good code is like a story, not a puzzle.</i>  
 </p>
 <!--
